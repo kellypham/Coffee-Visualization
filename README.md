@@ -33,7 +33,7 @@ Note: recommended browser is **Google Chrome**
 ## Demo
 
 <p align="center">
-  <img width="750" height="400" src="./images/demo.mp4">
+  <img width="750" height="400" src="./images/coffeeDemo.gif">
 </p>
 
 ## Author
